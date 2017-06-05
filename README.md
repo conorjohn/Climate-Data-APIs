@@ -10,3 +10,5 @@ I've been looking for a number of sources of climate data for the last little wh
 * Open Weather Map: https://openweathermap.org/api
 * WorldBank.org - Climate Data: https://datahelpdesk.worldbank.org/knowledgebase/articles/902061-climate-data-api
 * Climate Data Web Services: https://www.ncdc.noaa.gov/cdo-web/webservices/v2
+
+If anyone has any contributions to make please do, it would be great to see if there's any more data I can get my hands on 
