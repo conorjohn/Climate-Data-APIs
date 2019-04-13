@@ -12,7 +12,7 @@ I've been looking for a number of sources of climate data for the last little wh
 * Climate Data Web Services: https://www.ncdc.noaa.gov/cdo-web/webservices/v2
 * NASA Oceanography: https://podaac.jpl.nasa.gov/ws/metadata/granule/index.html
 
-Name | Description | Type | Auth | Link
+Name | Description | Type | Auth | Link |
 ------------ | ------------- | ------------- | ------------- |
 Climate Data Crawler | x | NPM Package | N/A | [Click Here](https://www.npmjs.com/package/climate-data-crawler)
 Weather API | x | JSON | ? | [Click Here](https://www.wunderground.com/weather/api/d/docs)
