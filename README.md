@@ -23,6 +23,9 @@ WorldBank.org | x | JSON | ? | [Click Here](https://datahelpdesk.worldbank.org/k
 Climate Data Web Services | x | JSON | ? | [Click Here](https://www.ncdc.noaa.gov/cdo-web/webservices/v2)|
 NASA Oceanography | x | XML | Token | [Click Here](https://podaac.jpl.nasa.gov/ws/metadata/granule/index.html)|
 Planet OS | x | JSON | API Key | [Click Here](https://data.planetos.com/)|
+Weatherbit.io | x | JSON | API Key | [Click Here](https://www.weatherbit.io/api)|
+Storm Glass | x | JSON | API Key | [Click Here](https://stormglass.io/)|
+OpenWeatherMap | x | JSON | API Key | [Click Here](https://openweathermap.org/api)|
 
 NASA is a great resource, so check out their [Data Portal](https://data.nasa.gov/)
 
