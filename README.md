@@ -1,4 +1,4 @@
-# Climate-Data-APIs
+# Climate Data & Biodiversity APIs
 ![](https://github.com/conorjohn/Climate-Data-APIs/blob/master/ireland-map.png)
 _Screenshot taken from windy.com_
 
@@ -32,6 +32,9 @@ OpenWeatherMap | x | JSON | API Key | [Click Here](https://openweathermap.org/ap
 NASA is a great resource, so check out their [Data Portal](https://data.nasa.gov/)
 
 If anyone has any contributions to make please do, it would be great to see if there's any more data I can get my hands on 
+
+# Biodiversity APIs 
+[Ireland](https://data.gov.ie/dataset?api=false&organization=national-biodiversity-data-centre)
 
 # Crowd Sourced Data
 I have been researching some groups and organisations that could possibly benefit from projects created from these APIs
