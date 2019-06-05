@@ -1,6 +1,6 @@
 # Climate-Data-APIs
 Climate Data APIs & Useful Organisations
-[logo](https://github.com/conorjohn/Climate-Data-APIs/blob/master/ireland-map.png)
+![](https://github.com/conorjohn/Climate-Data-APIs/blob/master/ireland-map.png)
 
 I've been looking for a number of sources of climate data for the last little while and after talking to a paleoclimatologist I was provided a number of resources that I hope to work with in the near future:
 
