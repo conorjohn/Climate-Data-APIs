@@ -30,3 +30,10 @@ OpenWeatherMap | x | JSON | API Key | [Click Here](https://openweathermap.org/ap
 NASA is a great resource, so check out their [Data Portal](https://data.nasa.gov/)
 
 If anyone has any contributions to make please do, it would be great to see if there's any more data I can get my hands on 
+
+# Crowd Sourced Data
+I have been researching some groups and organisations that could possibly benefit from projects created from these APIs
+
+Website | Description | Contact |
+------------ | ------------- | ------------- |
+[Pollinators](https://pollinators.ie/) | Monitoring the activity of pollintators in Ireland | [pollinators@biodiversityireland.ie](pollinators@biodiversityireland.ie)
