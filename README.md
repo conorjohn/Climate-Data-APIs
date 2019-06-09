@@ -28,6 +28,7 @@ Planet OS | x | JSON | API Key | [Click Here](https://data.planetos.com/)|
 Weatherbit.io | x | JSON | API Key | [Click Here](https://www.weatherbit.io/api)|
 Storm Glass | x | JSON | API Key | [Click Here](https://stormglass.io/)|
 OpenWeatherMap | x | JSON | API Key | [Click Here](https://openweathermap.org/api)|
+DarkSky | x | JSON | API Key | [Click Here](https://darksky.net/forecast/40.7127,-74.0059/us12/en)
 
 NASA is a great resource, so check out their [Data Portal](https://data.nasa.gov/)
 
