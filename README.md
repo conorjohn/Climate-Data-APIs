@@ -47,6 +47,6 @@ Website | Description | Contact |
 
 # Project Proposal
 * Create web portal and app that allows people to browse the Irish government ecological data.
-* Next provide a platform to allow users to submit their own sightings, with Species, Name, Picture & Location with coordinates.
+* Next provide a platform to allow users to submit their own sightings, with species, name, picture & location with coordinates.
 * These submissions will be reviewed by a researcher before they are offically recorded.
 * Combine weather forcasts with the season to alert to the likelyhood of seeing a certain species in a certain area.
