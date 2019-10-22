@@ -32,7 +32,7 @@ If anyone has any contributions to make please do, it would be great to see if t
 Name | Description | Type | Auth | Link |
 ------------ | ------------- | ------------- | ------------- | ------------- |
 AirVisual | x | JSON | API Key | [Click Here](https://www.airvisual.com/air-pollution-data-api)
-Open AQ Platform | x | JSON | API Key | [Click Here](https://docs.openaq.org/)
+Open AQ Platform | x | JSON | Open | [Click Here](https://docs.openaq.org/)
 Chinese Air Quality | x | JSON | API Key | [Click Here](http://www.pm25.in/api_doc)
 PVWatts V6 | x | JSON | API Key | [Click Here](https://developer.nrel.gov/docs/solar/pvwatts/v6/)
 Carbon Intensity GB | x | JSON | API Key | [Click Here](https://carbon-intensity.github.io/api-definitions/#carbon-intensity-api-v2-0-0)
